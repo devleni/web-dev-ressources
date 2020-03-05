@@ -4,6 +4,10 @@ A collection of stuff I can recommend.
 
 ## Online Coding Tutorials
 
+MDN https://developer.mozilla.org/en-US/
+
+w3schools https://www.w3schools.com/
+
 codecademy https://www.codecademy.com/
 
 freeCodeCamp https://www.freecodecamp.org/
