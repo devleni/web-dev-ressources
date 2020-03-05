@@ -1,16 +1,16 @@
-# web-dev-ressources
+# Web Dev Ressources
 All kinds of ressources that helped me learning or are regularly in use.
 
 
 
-## ONLINE CODING TUTORIALS
+## Online Coding Tutorials
 
 CodeCademy
 FreeCodeCamp
 https://codecombat.com/
 
 
-## UDEMY
+## Udemy
 
 Web Development Front and Back End
 https://www.udemy.com/course/the-web-developer-bootcamp/
@@ -28,8 +28,7 @@ Ethical Hacking
 https://www.udemy.com/course/practical-ethical-hacking/
 
 
-## YOUTUBE
-======
+## YouTube
 
 Colt Steele
 https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw
@@ -56,21 +55,18 @@ Traversy Media
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
 
-## BOOKS
-======
+## Books
 
-Coming soon...
+Eloquent JavaScript
 
 
-## PODCASTS
-======
+## Podcasts
 
 https://freecodecamp.libsyn.com/
 https://frontendhappyhour.com/
 
 
-## CSS LIBRARIES
-======
+## CSS Libraries
 
 Bootstrap
 https://getbootstrap.com/
