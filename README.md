@@ -1,11 +1,13 @@
 # Web Dev Ressources
-All kinds of ressources that helped me learning or are regularly in use.
+A collection of stuff I can recommend.
 
 
 ## Online Coding Tutorials
 
 codecademy https://www.codecademy.com/
+
 freeCodeCamp https://www.freecodecamp.org/
+
 CodeCombat https://codecombat.com/
 
 
