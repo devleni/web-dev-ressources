@@ -4,7 +4,6 @@ All kinds of ressources that helped me learning or are regularly in use.
 
 
 ## ONLINE CODING TUTORIALS
-======
 
 CodeCademy
 FreeCodeCamp
@@ -12,7 +11,6 @@ https://codecombat.com/
 
 
 ## UDEMY
-======
 
 Web Development Front and Back End
 https://www.udemy.com/course/the-web-developer-bootcamp/
