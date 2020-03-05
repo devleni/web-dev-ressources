@@ -12,19 +12,30 @@ https://codecombat.com/
 ## Udemy
 
 Web Development Front and Back End
+
 https://www.udemy.com/course/the-web-developer-bootcamp/
+
 https://www.udemy.com/course/the-complete-web-development-bootcamp/
+
 https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
 
+
 JavaScript
+
 https://www.udemy.com/course/javascript-beginners-complete-tutorial/
+
 https://www.udemy.com/course/modern-javascript-from-the-beginning/
 
+
 React
+
 https://www.udemy.com/course/modern-react-bootcamp/
 
+
 Ethical Hacking
+
 https://www.udemy.com/course/practical-ethical-hacking/
+
 
 
 ## YouTube
@@ -62,6 +73,7 @@ Eloquent JavaScript
 ## Podcasts
 
 https://freecodecamp.libsyn.com/
+
 https://frontendhappyhour.com/
 
 
