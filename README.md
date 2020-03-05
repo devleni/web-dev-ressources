@@ -2,7 +2,6 @@
 All kinds of ressources that helped me learning or are regularly in use.
 
 
-
 ## Online Coding Tutorials
 
 CodeCademy
