@@ -4,9 +4,9 @@ All kinds of ressources that helped me learning or are regularly in use.
 
 ## Online Coding Tutorials
 
-CodeCademy
-FreeCodeCamp
-https://codecombat.com/
+codecademy https://www.codecademy.com/
+freeCodeCamp https://www.freecodecamp.org/
+CodeCombat https://codecombat.com/
 
 
 ## Udemy
