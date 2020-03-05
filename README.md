@@ -2,18 +2,17 @@
 All kinds of ressources that helped me learning or are regularly in use.
 
 
-=======================
-ONLINE CODING TUTORIALS
-=======================
+
+## ONLINE CODING TUTORIALS
+======
 
 CodeCademy
 FreeCodeCamp
 https://codecombat.com/
 
 
-=======================
-UDEMY
-=======================
+## UDEMY
+======
 
 Web Development Front and Back End
 https://www.udemy.com/course/the-web-developer-bootcamp/
@@ -31,9 +30,8 @@ Ethical Hacking
 https://www.udemy.com/course/practical-ethical-hacking/
 
 
-=======================
-YOUTUBE
-=======================
+## YOUTUBE
+======
 
 Colt Steele
 https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw
@@ -60,24 +58,21 @@ Traversy Media
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
 
-=======================
-BOOKS
-=======================
+## BOOKS
+======
 
 Coming soon...
 
 
-=======================
-PODCASTS
-=======================
+## PODCASTS
+======
 
 https://freecodecamp.libsyn.com/
 https://frontendhappyhour.com/
 
 
-=======================
-CSS LIBRARIES
-=======================
+## CSS LIBRARIES
+======
 
 Bootstrap
 https://getbootstrap.com/
