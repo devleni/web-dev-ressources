@@ -2,6 +2,11 @@
 A collection of stuff I can recommend.
 
 
+## Cheat Sheets
+
+Markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
 ## Online Coding Tutorials
 
 MDN https://developer.mozilla.org/en-US/
@@ -13,6 +18,8 @@ codecademy https://www.codecademy.com/
 freeCodeCamp https://www.freecodecamp.org/
 
 CodeCombat https://codecombat.com/
+
+JavaScript30 https://javascript30.com/
 
 
 ## Udemy
