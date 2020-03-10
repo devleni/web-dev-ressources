@@ -5,8 +5,11 @@ A collection of stuff I like.
 ## Cheat Sheets & Compatibility
 
 Markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 Emmet https://docs.emmet.io/cheat-sheet/
+
 CSS Grid http://grid.malven.co/
+
 Can I Use https://caniuse.com/
 
 
