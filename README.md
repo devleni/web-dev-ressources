@@ -8,6 +8,8 @@ Markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Emmet https://docs.emmet.io/cheat-sheet/
 
+CSS Almanac https://css-tricks.com/almanac/
+
 CSS Grid http://grid.malven.co/
 
 Can I Use https://caniuse.com/
