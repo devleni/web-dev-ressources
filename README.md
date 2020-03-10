@@ -1,10 +1,13 @@
 # Web Dev Ressources
-A collection of stuff I can recommend.
+A collection of stuff I like.
 
 
-## Cheat Sheets
+## Cheat Sheets & Compatibility
 
 Markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+Emmet https://docs.emmet.io/cheat-sheet/
+CSS Grid http://grid.malven.co/
+Can I Use https://caniuse.com/
 
 
 ## Online Coding Tutorials
@@ -17,9 +20,11 @@ codecademy https://www.codecademy.com/
 
 freeCodeCamp https://www.freecodecamp.org/
 
+JavaScript30 https://javascript30.com/
+
 CodeCombat https://codecombat.com/
 
-JavaScript30 https://javascript30.com/
+Flexbox Froggy https://flexboxfroggy.com/
 
 
 ## Udemy
@@ -98,5 +103,17 @@ https://getbootstrap.com/
 Tachyons
 https://tachyons.io/
 
+Semantic UI
+https://semantic-ui.com/
+
 Animate CSS
 https://daneden.github.io/animate.css/
+
+
+## Free Images & Icons
+
+Unsplash
+https://unsplash.com/
+
+FontAwesome
+https://fontawesome.com/
