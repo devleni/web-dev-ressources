@@ -15,6 +15,45 @@ CSS Grid http://grid.malven.co/
 Can I Use https://caniuse.com/
 
 
+## CSS Libraries
+
+Bootstrap
+https://getbootstrap.com/
+
+Tachyons
+https://tachyons.io/
+
+Semantic UI
+https://semantic-ui.com/
+
+Animate CSS
+https://daneden.github.io/animate.css/
+
+
+## Free Images & Icons
+
+Unsplash
+https://unsplash.com/
+
+FontAwesome
+https://fontawesome.com/
+
+
+## Colors
+
+CSS Gradient
+https://cssgradient.io/
+
+uiGradients
+https://uigradients.com/
+
+Paletton
+http://paletton.com/
+
+Color Hunt
+https://colorhunt.co/
+
+
 ## Online Coding Tutorials
 
 MDN https://developer.mozilla.org/en-US/
@@ -91,6 +130,7 @@ https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 ## Books
 
 Eloquent JavaScript
+https://eloquentjavascript.net/
 
 
 ## Podcasts
@@ -98,43 +138,3 @@ Eloquent JavaScript
 https://freecodecamp.libsyn.com/
 
 https://frontendhappyhour.com/
-
-
-## CSS Libraries
-
-Bootstrap
-https://getbootstrap.com/
-
-Tachyons
-https://tachyons.io/
-
-Semantic UI
-https://semantic-ui.com/
-
-Animate CSS
-https://daneden.github.io/animate.css/
-
-
-## Free Images & Icons
-
-Unsplash
-https://unsplash.com/
-
-FontAwesome
-https://fontawesome.com/
-
-
-## Colors
-
-CSS Gradient
-https://cssgradient.io/
-
-uiGradients
-https://uigradients.com/
-
-Paletton
-http://paletton.com/
-
-Color Hunt
-https://colorhunt.co/
-
