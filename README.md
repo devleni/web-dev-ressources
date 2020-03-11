@@ -122,3 +122,19 @@ https://unsplash.com/
 
 FontAwesome
 https://fontawesome.com/
+
+
+## Colors
+
+CSS Gradient
+https://cssgradient.io/
+
+uiGradients
+https://uigradients.com/
+
+Paletton
+http://paletton.com/
+
+Color Hunt
+https://colorhunt.co/
+
