@@ -135,6 +135,6 @@ https://eloquentjavascript.net/
 
 ## Podcasts
 
-https://freecodecamp.libsyn.com/
+freeCodeCamp Podcast https://freecodecamp.libsyn.com/
 
-https://frontendhappyhour.com/
+Front End Happy Hour https://frontendhappyhour.com/
