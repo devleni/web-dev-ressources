@@ -1,5 +1,5 @@
 # Web Dev Ressources
-A collection of stuff I like.
+A collection of helpful and interesting stuff for web devs.
 
 
 ## Cheat Sheets & Compatibility
