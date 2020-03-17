@@ -14,6 +14,9 @@ CSS Grid http://grid.malven.co/
 
 Can I Use https://caniuse.com/
 
+JavaScript Char Codes
+https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes
+
 
 ## CSS Libraries
 
