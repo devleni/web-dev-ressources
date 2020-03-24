@@ -151,4 +151,4 @@ freeCodeCamp Podcast https://freecodecamp.libsyn.com/
 
 Front End Happy Hour https://frontendhappyhour.com/
 
-Syntax FM http://tools.dynamicdrive.com/favicon/
+Syntax https://syntax.fm/
