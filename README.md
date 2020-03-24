@@ -47,6 +47,9 @@ https://undraw.co
 Interfacer
 https://interfacer.xyz/
 
+Favicon Generator
+http://tools.dynamicdrive.com/favicon/
+
 
 ## Colors
 
@@ -147,3 +150,5 @@ https://eloquentjavascript.net/
 freeCodeCamp Podcast https://freecodecamp.libsyn.com/
 
 Front End Happy Hour https://frontendhappyhour.com/
+
+Syntax FM http://tools.dynamicdrive.com/favicon/
