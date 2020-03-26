@@ -50,6 +50,9 @@ https://interfacer.xyz/
 Favicon Generator
 http://tools.dynamicdrive.com/favicon/
 
+Loading.io
+https://loading.io/
+
 
 ## Colors
 
