@@ -150,8 +150,10 @@ https://eloquentjavascript.net/
 
 ## Podcasts
 
-freeCodeCamp Podcast https://freecodecamp.libsyn.com/
+Ladybug https://ladybug.dev/
 
 Front End Happy Hour https://frontendhappyhour.com/
+
+freeCodeCamp Podcast https://freecodecamp.libsyn.com/
 
 Syntax https://syntax.fm/
